@@ -1,0 +1,10 @@
+C:\Users\LAZRUS\Source\Repos\Lab_exersice_Test\bin\Debug\Lab_exersice_Test.exe.config
+C:\Users\LAZRUS\Source\Repos\Lab_exersice_Test\bin\Debug\Lab_exersice_Test.exe
+C:\Users\LAZRUS\Source\Repos\Lab_exersice_Test\bin\Debug\Lab_exersice_Test.pdb
+C:\Users\LAZRUS\Source\Repos\Lab_exersice_Test\obj\Debug\Lab_exersice_Test.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\Lab_exersice_Test\obj\Debug\Lab_exersice_Test.Form1.resources
+C:\Users\LAZRUS\Source\Repos\Lab_exersice_Test\obj\Debug\Lab_exersice_Test.Properties.Resources.resources
+C:\Users\LAZRUS\Source\Repos\Lab_exersice_Test\obj\Debug\Lab_exersice_Test.csproj.GenerateResource.cache
+C:\Users\LAZRUS\Source\Repos\Lab_exersice_Test\obj\Debug\Lab_exersice_Test.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\Lab_exersice_Test\obj\Debug\Lab_exersice_Test.exe
+C:\Users\LAZRUS\Source\Repos\Lab_exersice_Test\obj\Debug\Lab_exersice_Test.pdb

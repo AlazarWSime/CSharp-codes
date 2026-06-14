@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAZRUS\\Source\\Repos\\Abstruct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CED11DFD-7D72-4122-9AF9-FF1165169648}|Abstruct\\Abstruct.csproj|c:\\users\\lazrus\\source\\repos\\abstruct\\abstruct\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED11DFD-7D72-4122-9AF9-FF1165169648}|Abstruct\\Abstruct.csproj|solutionrelative:abstruct\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED11DFD-7D72-4122-9AF9-FF1165169648}|Abstruct\\Abstruct.csproj|c:\\users\\lazrus\\source\\repos\\abstruct\\abstruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED11DFD-7D72-4122-9AF9-FF1165169648}|Abstruct\\Abstruct.csproj|solutionrelative:abstruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED11DFD-7D72-4122-9AF9-FF1165169648}|Abstruct\\Abstruct.csproj|c:\\users\\lazrus\\source\\repos\\abstruct\\abstruct\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED11DFD-7D72-4122-9AF9-FF1165169648}|Abstruct\\Abstruct.csproj|solutionrelative:abstruct\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 364,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Abstruct\\Abstruct\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Abstruct\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Abstruct\\Abstruct\\Vehicle.cs",
+              "RelativeToolTip": "Abstruct\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T18:17:36.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 316,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Abstruct\\Abstruct\\Program.cs",
+              "RelativeDocumentMoniker": "Abstruct\\Program.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Abstruct\\Abstruct\\Program.cs",
+              "RelativeToolTip": "Abstruct\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T18:16:55.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 339,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Abstruct\\Abstruct\\Car.cs",
+              "RelativeDocumentMoniker": "Abstruct\\Car.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Abstruct\\Abstruct\\Car.cs",
+              "RelativeToolTip": "Abstruct\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T18:25:15.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

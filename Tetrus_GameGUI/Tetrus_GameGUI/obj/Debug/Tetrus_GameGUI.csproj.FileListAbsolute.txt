@@ -1,0 +1,15 @@
+C:\Users\LAZRUS\Source\Repos\Tetrus_GameGUI\Tetrus_GameGUI\obj\Debug\Tetrus_GameGUI.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\Tetrus_GameGUI\Tetrus_GameGUI\obj\Debug\Tetrus_GameGUI.Form1.resources
+C:\Users\LAZRUS\Source\Repos\Tetrus_GameGUI\Tetrus_GameGUI\obj\Debug\Tetrus_GameGUI.GameControl.resources
+C:\Users\LAZRUS\Source\Repos\Tetrus_GameGUI\Tetrus_GameGUI\obj\Debug\Tetrus_GameGUI.Properties.Resources.resources
+C:\Users\LAZRUS\Source\Repos\Tetrus_GameGUI\Tetrus_GameGUI\obj\Debug\Tetrus_GameGUI.csproj.GenerateResource.cache
+C:\Users\LAZRUS\Source\Repos\Tetrus_GameGUI\Tetrus_GameGUI\obj\Debug\Tetrus_GameGUI.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\Tetrus_GameGUI\Tetrus_GameGUI\bin\Debug\Tetrus_GameGUI.exe.config
+C:\Users\LAZRUS\Source\Repos\Tetrus_GameGUI\Tetrus_GameGUI\bin\Debug\Tetrus_GameGUI.exe
+C:\Users\LAZRUS\Source\Repos\Tetrus_GameGUI\Tetrus_GameGUI\bin\Debug\Tetrus_GameGUI.pdb
+C:\Users\LAZRUS\Source\Repos\Tetrus_GameGUI\Tetrus_GameGUI\obj\Debug\Tetrus_GameGUI.exe
+C:\Users\LAZRUS\Source\Repos\Tetrus_GameGUI\Tetrus_GameGUI\obj\Debug\Tetrus_GameGUI.pdb
+C:\Users\LAZRUS\Source\Repos\Tetrus_GameGUI\Tetrus_GameGUI\obj\Debug\Tetrus_GameGUI.GameOverControl.resources
+C:\Users\LAZRUS\Source\Repos\Tetrus_GameGUI\Tetrus_GameGUI\obj\Debug\Tetrus_GameGUI.MenuControl.resources
+C:\Users\LAZRUS\Source\Repos\Tetrus_GameGUI\Tetrus_GameGUI\obj\Debug\Tetrus_GameGUI.OptionsControl.resources
+C:\Users\LAZRUS\Source\Repos\Tetrus_GameGUI\Tetrus_GameGUI\obj\Debug\Tetrus_GameGUI.PauseMenuControl.resources

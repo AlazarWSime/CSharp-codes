@@ -1,0 +1,7 @@
+C:\Users\LAZRUS\Source\Repos\foreeach_Redo\foreeach_Redo\bin\Debug\foreeach_Redo.exe.config
+C:\Users\LAZRUS\Source\Repos\foreeach_Redo\foreeach_Redo\bin\Debug\foreeach_Redo.exe
+C:\Users\LAZRUS\Source\Repos\foreeach_Redo\foreeach_Redo\bin\Debug\foreeach_Redo.pdb
+C:\Users\LAZRUS\Source\Repos\foreeach_Redo\foreeach_Redo\obj\Debug\foreeach_Redo.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\foreeach_Redo\foreeach_Redo\obj\Debug\foreeach_Redo.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\foreeach_Redo\foreeach_Redo\obj\Debug\foreeach_Redo.exe
+C:\Users\LAZRUS\Source\Repos\foreeach_Redo\foreeach_Redo\obj\Debug\foreeach_Redo.pdb

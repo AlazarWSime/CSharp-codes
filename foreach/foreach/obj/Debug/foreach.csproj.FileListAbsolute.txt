@@ -1,0 +1,7 @@
+C:\Users\LAZRUS\Source\Repos\foreach\foreach\bin\Debug\@foreach.exe.config
+C:\Users\LAZRUS\Source\Repos\foreach\foreach\bin\Debug\@foreach.exe
+C:\Users\LAZRUS\Source\Repos\foreach\foreach\bin\Debug\@foreach.pdb
+C:\Users\LAZRUS\Source\Repos\foreach\foreach\obj\Debug\foreach.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\foreach\foreach\obj\Debug\foreach.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\foreach\foreach\obj\Debug\@foreach.exe
+C:\Users\LAZRUS\Source\Repos\foreach\foreach\obj\Debug\@foreach.pdb

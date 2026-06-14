@@ -1,0 +1,7 @@
+C:\Users\LAZRUS\Source\Repos\Quize1\Quize1\bin\Debug\Quize1.exe.config
+C:\Users\LAZRUS\Source\Repos\Quize1\Quize1\bin\Debug\Quize1.exe
+C:\Users\LAZRUS\Source\Repos\Quize1\Quize1\bin\Debug\Quize1.pdb
+C:\Users\LAZRUS\Source\Repos\Quize1\Quize1\obj\Debug\Quize1.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\Quize1\Quize1\obj\Debug\Quize1.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\Quize1\Quize1\obj\Debug\Quize1.exe
+C:\Users\LAZRUS\Source\Repos\Quize1\Quize1\obj\Debug\Quize1.pdb

@@ -1,0 +1,7 @@
+C:\Users\LAZRUS\Source\Repos\print\print\bin\Debug\print.exe.config
+C:\Users\LAZRUS\Source\Repos\print\print\bin\Debug\print.exe
+C:\Users\LAZRUS\Source\Repos\print\print\bin\Debug\print.pdb
+C:\Users\LAZRUS\Source\Repos\print\print\obj\Debug\print.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\print\print\obj\Debug\print.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\print\print\obj\Debug\print.exe
+C:\Users\LAZRUS\Source\Repos\print\print\obj\Debug\print.pdb

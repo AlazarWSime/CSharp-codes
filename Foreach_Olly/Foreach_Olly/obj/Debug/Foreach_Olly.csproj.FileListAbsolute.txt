@@ -1,0 +1,7 @@
+C:\Users\LAZRUS\Source\Repos\Foreach_Olly\Foreach_Olly\bin\Debug\Foreach_Olly.exe.config
+C:\Users\LAZRUS\Source\Repos\Foreach_Olly\Foreach_Olly\bin\Debug\Foreach_Olly.exe
+C:\Users\LAZRUS\Source\Repos\Foreach_Olly\Foreach_Olly\bin\Debug\Foreach_Olly.pdb
+C:\Users\LAZRUS\Source\Repos\Foreach_Olly\Foreach_Olly\obj\Debug\Foreach_Olly.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\Foreach_Olly\Foreach_Olly\obj\Debug\Foreach_Olly.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\Foreach_Olly\Foreach_Olly\obj\Debug\Foreach_Olly.exe
+C:\Users\LAZRUS\Source\Repos\Foreach_Olly\Foreach_Olly\obj\Debug\Foreach_Olly.pdb

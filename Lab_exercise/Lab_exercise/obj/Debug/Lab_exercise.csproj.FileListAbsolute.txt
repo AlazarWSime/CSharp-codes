@@ -1,0 +1,10 @@
+C:\Users\LAZRUS\Source\Repos\Lab_exercise\Lab_exercise\bin\Debug\Lab_exercise.exe.config
+C:\Users\LAZRUS\Source\Repos\Lab_exercise\Lab_exercise\bin\Debug\Lab_exercise.exe
+C:\Users\LAZRUS\Source\Repos\Lab_exercise\Lab_exercise\bin\Debug\Lab_exercise.pdb
+C:\Users\LAZRUS\Source\Repos\Lab_exercise\Lab_exercise\obj\Debug\Lab_exercise.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\Lab_exercise\Lab_exercise\obj\Debug\Lab_exercise.Properties.Resources.resources
+C:\Users\LAZRUS\Source\Repos\Lab_exercise\Lab_exercise\obj\Debug\Lab_exercise.csproj.GenerateResource.cache
+C:\Users\LAZRUS\Source\Repos\Lab_exercise\Lab_exercise\obj\Debug\Lab_exercise.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\Lab_exercise\Lab_exercise\obj\Debug\Lab_exercise.exe
+C:\Users\LAZRUS\Source\Repos\Lab_exercise\Lab_exercise\obj\Debug\Lab_exercise.pdb
+C:\Users\LAZRUS\Source\Repos\Lab_exercise\Lab_exercise\obj\Debug\Lab_exercise.Form1.resources

@@ -1,0 +1,7 @@
+C:\Users\LAZRUS\Source\Repos\Array_foreach_Assesment\Array_foreach_Assesment\bin\Debug\Array_foreach_Assesment.exe.config
+C:\Users\LAZRUS\Source\Repos\Array_foreach_Assesment\Array_foreach_Assesment\bin\Debug\Array_foreach_Assesment.exe
+C:\Users\LAZRUS\Source\Repos\Array_foreach_Assesment\Array_foreach_Assesment\bin\Debug\Array_foreach_Assesment.pdb
+C:\Users\LAZRUS\Source\Repos\Array_foreach_Assesment\Array_foreach_Assesment\obj\Debug\Array_foreach_Assesment.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\Array_foreach_Assesment\Array_foreach_Assesment\obj\Debug\Array_foreach_Assesment.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\Array_foreach_Assesment\Array_foreach_Assesment\obj\Debug\Array_foreach_Assesment.exe
+C:\Users\LAZRUS\Source\Repos\Array_foreach_Assesment\Array_foreach_Assesment\obj\Debug\Array_foreach_Assesment.pdb

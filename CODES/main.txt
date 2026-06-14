@@ -1,0 +1,11 @@
+static void Main()
+{
+    // 1. Initialize configuration setups first (Handles fonts and High DPI UI elements)
+    ApplicationConfiguration.Initialize();
+
+    // 2. Run your seeder right after configuration is set
+    new AdminSeeder().SeedAdmin();
+
+    // 3. Launch your primary interface screen
+    Application.Run(new mainForm());
+}

@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAZRUS\\Source\\Repos\\Assessment 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8388AB9-7060-4C75-BEBB-7DC3CB320078}|Assessment 5\\Assessment 5.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Assessment 5\\assessment 5\\electricscooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8388AB9-7060-4C75-BEBB-7DC3CB320078}|Assessment 5\\Assessment 5.csproj|solutionrelative:assessment 5\\electricscooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8388AB9-7060-4C75-BEBB-7DC3CB320078}|Assessment 5\\Assessment 5.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Assessment 5\\assessment 5\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8388AB9-7060-4C75-BEBB-7DC3CB320078}|Assessment 5\\Assessment 5.csproj|solutionrelative:assessment 5\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8388AB9-7060-4C75-BEBB-7DC3CB320078}|Assessment 5\\Assessment 5.csproj|c:\\users\\lazrus\\source\\repos\\assessment 5\\assessment 5\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8388AB9-7060-4C75-BEBB-7DC3CB320078}|Assessment 5\\Assessment 5.csproj|solutionrelative:assessment 5\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8388AB9-7060-4C75-BEBB-7DC3CB320078}|Assessment 5\\Assessment 5.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Assessment 5\\assessment 5\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8388AB9-7060-4C75-BEBB-7DC3CB320078}|Assessment 5\\Assessment 5.csproj|solutionrelative:assessment 5\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8388AB9-7060-4C75-BEBB-7DC3CB320078}|Assessment 5\\Assessment 5.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Assessment 5\\assessment 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8388AB9-7060-4C75-BEBB-7DC3CB320078}|Assessment 5\\Assessment 5.csproj|solutionrelative:assessment 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Assessment 5\\Assessment 5\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Assessment 5\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Assessment 5\\Assessment 5\\Vehicle.cs",
+              "RelativeToolTip": "Assessment 5\\Vehicle.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T19:13:55.253Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Assessment 5\\Assessment 5\\Car.cs",
+              "RelativeDocumentMoniker": "Assessment 5\\Car.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Assessment 5\\Assessment 5\\Car.cs",
+              "RelativeToolTip": "Assessment 5\\Car.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T20:26:49.646Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Assessment 5\\Assessment 5\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "Assessment 5\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Assessment 5\\Assessment 5\\Motorcycle.cs",
+              "RelativeToolTip": "Assessment 5\\Motorcycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T20:33:14.553Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElectricScooter.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Assessment 5\\Assessment 5\\ElectricScooter.cs",
+              "RelativeDocumentMoniker": "Assessment 5\\ElectricScooter.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Assessment 5\\Assessment 5\\ElectricScooter.cs",
+              "RelativeToolTip": "Assessment 5\\ElectricScooter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T20:39:44.357Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Assessment 5\\Assessment 5\\Program.cs",
+              "RelativeDocumentMoniker": "Assessment 5\\Program.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Assessment 5\\Assessment 5\\Program.cs",
+              "RelativeToolTip": "Assessment 5\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T20:44:09.143Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

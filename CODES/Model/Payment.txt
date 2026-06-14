@@ -1,0 +1,12 @@
+public class Payment
+    {
+        public Guid PaymentId { get; set; } 
+        public float Amount { get; set; } 
+        public DateTime Date { get; set; } 
+        public Guid AppointmentId { get; set; } 
+        public char Status { get; set; } 
+        public Payment()
+        {
+            PaymentId = Guid.NewGuid();
+        }
+    }

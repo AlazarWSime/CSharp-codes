@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAZRUS\\Source\\Repos\\MyFistPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8A7802-48DF-4FB1-923B-150991293765}|MyFistPro\\MyFistPro.csproj|c:\\users\\lazrus\\source\\repos\\myfistpro\\myfistpro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8A7802-48DF-4FB1-923B-150991293765}|MyFistPro\\MyFistPro.csproj|solutionrelative:myfistpro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\MyFistPro\\MyFistPro\\Form1.cs",
+              "RelativeDocumentMoniker": "MyFistPro\\Form1.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\MyFistPro\\MyFistPro\\Form1.cs",
+              "RelativeToolTip": "MyFistPro\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T19:10:41.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

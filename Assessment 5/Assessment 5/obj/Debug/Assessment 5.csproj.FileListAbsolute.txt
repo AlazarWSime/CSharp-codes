@@ -1,0 +1,7 @@
+C:\Users\LAZRUS\Source\Repos\Assessment 5\Assessment 5\bin\Debug\Assessment 5.exe.config
+C:\Users\LAZRUS\Source\Repos\Assessment 5\Assessment 5\bin\Debug\Assessment 5.exe
+C:\Users\LAZRUS\Source\Repos\Assessment 5\Assessment 5\bin\Debug\Assessment 5.pdb
+C:\Users\LAZRUS\Source\Repos\Assessment 5\Assessment 5\obj\Debug\Assessment 5.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\Assessment 5\Assessment 5\obj\Debug\Assessment 5.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\Assessment 5\Assessment 5\obj\Debug\Assessment 5.exe
+C:\Users\LAZRUS\Source\Repos\Assessment 5\Assessment 5\obj\Debug\Assessment 5.pdb

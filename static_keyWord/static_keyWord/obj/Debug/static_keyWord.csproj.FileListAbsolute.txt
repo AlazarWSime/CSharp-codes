@@ -1,0 +1,7 @@
+C:\Users\LAZRUS\Source\Repos\static_keyWord\static_keyWord\bin\Debug\static_keyWord.exe.config
+C:\Users\LAZRUS\Source\Repos\static_keyWord\static_keyWord\bin\Debug\static_keyWord.exe
+C:\Users\LAZRUS\Source\Repos\static_keyWord\static_keyWord\bin\Debug\static_keyWord.pdb
+C:\Users\LAZRUS\Source\Repos\static_keyWord\static_keyWord\obj\Debug\static_keyWord.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\static_keyWord\static_keyWord\obj\Debug\static_keyWord.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\static_keyWord\static_keyWord\obj\Debug\static_keyWord.exe
+C:\Users\LAZRUS\Source\Repos\static_keyWord\static_keyWord\obj\Debug\static_keyWord.pdb

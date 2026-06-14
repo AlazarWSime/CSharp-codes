@@ -1,0 +1,9 @@
+C:\Users\LAZRUS\Source\Repos\Class\bin\Debug\Class.exe.config
+C:\Users\LAZRUS\Source\Repos\Class\bin\Debug\Class.exe
+C:\Users\LAZRUS\Source\Repos\Class\bin\Debug\Class.pdb
+C:\Users\LAZRUS\Source\Repos\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\Class\obj\Debug\Class.Properties.Resources.resources
+C:\Users\LAZRUS\Source\Repos\Class\obj\Debug\Class.csproj.GenerateResource.cache
+C:\Users\LAZRUS\Source\Repos\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\Class\obj\Debug\Class.exe
+C:\Users\LAZRUS\Source\Repos\Class\obj\Debug\Class.pdb

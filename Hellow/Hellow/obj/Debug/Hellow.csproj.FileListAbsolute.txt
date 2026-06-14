@@ -1,0 +1,7 @@
+C:\Users\LAZRUS\Source\Repos\Hellow\Hellow\bin\Debug\Hellow.exe.config
+C:\Users\LAZRUS\Source\Repos\Hellow\Hellow\bin\Debug\Hellow.exe
+C:\Users\LAZRUS\Source\Repos\Hellow\Hellow\bin\Debug\Hellow.pdb
+C:\Users\LAZRUS\Source\Repos\Hellow\Hellow\obj\Debug\Hellow.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\Hellow\Hellow\obj\Debug\Hellow.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\Hellow\Hellow\obj\Debug\Hellow.exe
+C:\Users\LAZRUS\Source\Repos\Hellow\Hellow\obj\Debug\Hellow.pdb

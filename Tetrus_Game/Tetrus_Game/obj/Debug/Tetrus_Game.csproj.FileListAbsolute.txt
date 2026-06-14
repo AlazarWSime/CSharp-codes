@@ -1,0 +1,7 @@
+C:\Users\LAZRUS\Source\Repos\Tetrus_Game\Tetrus_Game\obj\Debug\Tetrus_Game.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\Tetrus_Game\Tetrus_Game\obj\Debug\Tetrus_Game.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\Tetrus_Game\Tetrus_Game\bin\Debug\Tetrus_Game.exe.config
+C:\Users\LAZRUS\Source\Repos\Tetrus_Game\Tetrus_Game\bin\Debug\Tetrus_Game.exe
+C:\Users\LAZRUS\Source\Repos\Tetrus_Game\Tetrus_Game\bin\Debug\Tetrus_Game.pdb
+C:\Users\LAZRUS\Source\Repos\Tetrus_Game\Tetrus_Game\obj\Debug\Tetrus_Game.exe
+C:\Users\LAZRUS\Source\Repos\Tetrus_Game\Tetrus_Game\obj\Debug\Tetrus_Game.pdb

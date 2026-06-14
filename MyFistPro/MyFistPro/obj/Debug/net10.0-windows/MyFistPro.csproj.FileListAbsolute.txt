@@ -1,0 +1,16 @@
+C:\Users\LAZRUS\Source\Repos\MyFistPro\MyFistPro\bin\Debug\net10.0-windows\MyFistPro.exe
+C:\Users\LAZRUS\Source\Repos\MyFistPro\MyFistPro\bin\Debug\net10.0-windows\MyFistPro.deps.json
+C:\Users\LAZRUS\Source\Repos\MyFistPro\MyFistPro\bin\Debug\net10.0-windows\MyFistPro.runtimeconfig.json
+C:\Users\LAZRUS\Source\Repos\MyFistPro\MyFistPro\bin\Debug\net10.0-windows\MyFistPro.dll
+C:\Users\LAZRUS\Source\Repos\MyFistPro\MyFistPro\bin\Debug\net10.0-windows\MyFistPro.pdb
+C:\Users\LAZRUS\Source\Repos\MyFistPro\MyFistPro\obj\Debug\net10.0-windows\MyFistPro.Form1.resources
+C:\Users\LAZRUS\Source\Repos\MyFistPro\MyFistPro\obj\Debug\net10.0-windows\MyFistPro.csproj.GenerateResource.cache
+C:\Users\LAZRUS\Source\Repos\MyFistPro\MyFistPro\obj\Debug\net10.0-windows\MyFistPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAZRUS\Source\Repos\MyFistPro\MyFistPro\obj\Debug\net10.0-windows\MyFistPro.AssemblyInfoInputs.cache
+C:\Users\LAZRUS\Source\Repos\MyFistPro\MyFistPro\obj\Debug\net10.0-windows\MyFistPro.AssemblyInfo.cs
+C:\Users\LAZRUS\Source\Repos\MyFistPro\MyFistPro\obj\Debug\net10.0-windows\MyFistPro.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\MyFistPro\MyFistPro\obj\Debug\net10.0-windows\MyFistPro.dll
+C:\Users\LAZRUS\Source\Repos\MyFistPro\MyFistPro\obj\Debug\net10.0-windows\refint\MyFistPro.dll
+C:\Users\LAZRUS\Source\Repos\MyFistPro\MyFistPro\obj\Debug\net10.0-windows\MyFistPro.pdb
+C:\Users\LAZRUS\Source\Repos\MyFistPro\MyFistPro\obj\Debug\net10.0-windows\MyFistPro.genruntimeconfig.cache
+C:\Users\LAZRUS\Source\Repos\MyFistPro\MyFistPro\obj\Debug\net10.0-windows\ref\MyFistPro.dll

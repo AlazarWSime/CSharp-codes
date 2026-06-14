@@ -1,0 +1,7 @@
+C:\Users\LAZRUS\Source\Repos\Exam study\Exam study\bin\Debug\Exam study.exe.config
+C:\Users\LAZRUS\Source\Repos\Exam study\Exam study\bin\Debug\Exam study.exe
+C:\Users\LAZRUS\Source\Repos\Exam study\Exam study\bin\Debug\Exam study.pdb
+C:\Users\LAZRUS\Source\Repos\Exam study\Exam study\obj\Debug\Exam study.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\Exam study\Exam study\obj\Debug\Exam study.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\Exam study\Exam study\obj\Debug\Exam study.exe
+C:\Users\LAZRUS\Source\Repos\Exam study\Exam study\obj\Debug\Exam study.pdb

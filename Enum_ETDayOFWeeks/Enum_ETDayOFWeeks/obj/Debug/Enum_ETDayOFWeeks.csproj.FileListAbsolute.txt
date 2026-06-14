@@ -1,0 +1,7 @@
+C:\Users\LAZRUS\Source\Repos\Enum_ETDayOFWeeks\Enum_ETDayOFWeeks\bin\Debug\Enum_ETDayOFWeeks.exe.config
+C:\Users\LAZRUS\Source\Repos\Enum_ETDayOFWeeks\Enum_ETDayOFWeeks\bin\Debug\Enum_ETDayOFWeeks.exe
+C:\Users\LAZRUS\Source\Repos\Enum_ETDayOFWeeks\Enum_ETDayOFWeeks\bin\Debug\Enum_ETDayOFWeeks.pdb
+C:\Users\LAZRUS\Source\Repos\Enum_ETDayOFWeeks\Enum_ETDayOFWeeks\obj\Debug\Enum_ETDayOFWeeks.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\Enum_ETDayOFWeeks\Enum_ETDayOFWeeks\obj\Debug\Enum_ETDayOFWeeks.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\Enum_ETDayOFWeeks\Enum_ETDayOFWeeks\obj\Debug\Enum_ETDayOFWeeks.exe
+C:\Users\LAZRUS\Source\Repos\Enum_ETDayOFWeeks\Enum_ETDayOFWeeks\obj\Debug\Enum_ETDayOFWeeks.pdb

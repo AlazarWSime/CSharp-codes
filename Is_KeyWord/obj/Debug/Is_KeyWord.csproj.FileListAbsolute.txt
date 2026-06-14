@@ -1,0 +1,7 @@
+C:\Users\LAZRUS\Source\Repos\Is_KeyWord\bin\Debug\Is_KeyWord.exe.config
+C:\Users\LAZRUS\Source\Repos\Is_KeyWord\bin\Debug\Is_KeyWord.exe
+C:\Users\LAZRUS\Source\Repos\Is_KeyWord\bin\Debug\Is_KeyWord.pdb
+C:\Users\LAZRUS\Source\Repos\Is_KeyWord\obj\Debug\Is_KeyWord.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\Is_KeyWord\obj\Debug\Is_KeyWord.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\Is_KeyWord\obj\Debug\Is_KeyWord.exe
+C:\Users\LAZRUS\Source\Repos\Is_KeyWord\obj\Debug\Is_KeyWord.pdb

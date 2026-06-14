@@ -1,0 +1,7 @@
+C:\Users\LAZRUS\Source\Repos\Pass by reference\Pass by reference\bin\Debug\Pass by reference.exe.config
+C:\Users\LAZRUS\Source\Repos\Pass by reference\Pass by reference\bin\Debug\Pass by reference.exe
+C:\Users\LAZRUS\Source\Repos\Pass by reference\Pass by reference\bin\Debug\Pass by reference.pdb
+C:\Users\LAZRUS\Source\Repos\Pass by reference\Pass by reference\obj\Debug\Pass by reference.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\Pass by reference\Pass by reference\obj\Debug\Pass by reference.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\Pass by reference\Pass by reference\obj\Debug\Pass by reference.exe
+C:\Users\LAZRUS\Source\Repos\Pass by reference\Pass by reference\obj\Debug\Pass by reference.pdb

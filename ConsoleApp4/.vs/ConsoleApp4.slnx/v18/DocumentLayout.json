@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAZRUS\\Source\\Repos\\ConsoleApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5818B7D8-32EF-4758-97A9-B0927B48E9AC}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\lazrus\\source\\repos\\consoleapp4\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5818B7D8-32EF-4758-97A9-B0927B48E9AC}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5818B7D8-32EF-4758-97A9-B0927B48E9AC}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\lazrus\\source\\repos\\consoleapp4\\consoleapp4\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5818B7D8-32EF-4758-97A9-B0927B48E9AC}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5818B7D8-32EF-4758-97A9-B0927B48E9AC}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\lazrus\\source\\repos\\consoleapp4\\consoleapp4\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5818B7D8-32EF-4758-97A9-B0927B48E9AC}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 364,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\ConsoleApp4\\ConsoleApp4\\Dog.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Dog.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\ConsoleApp4\\ConsoleApp4\\Dog.cs",
+              "RelativeToolTip": "ConsoleApp4\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T17:16:23.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\ConsoleApp4\\ConsoleApp4\\Class1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Class1.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\ConsoleApp4\\ConsoleApp4\\Class1.cs",
+              "RelativeToolTip": "ConsoleApp4\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T17:14:27.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Program.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "ConsoleApp4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T17:13:38.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

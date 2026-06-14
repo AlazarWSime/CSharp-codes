@@ -1,0 +1,431 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|c:\\users\\lazrus\\source\\repos\\tetrus_gamegui\\tetrus_gamegui\\tetromino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\tetromino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\pausemenucontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\pausemenucontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\pausemenucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\pausemenucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\pausemenucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\pausemenucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\gameovercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\gameovercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|c:\\users\\lazrus\\source\\repos\\tetrus_gamegui\\tetrus_gamegui\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\gameovercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\gameovercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\gamecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\gamecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\gameovercontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\gameovercontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\optionscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\optionscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\optionscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\optionscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\gamecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\gamecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\gameovercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\gameovercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\menucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\menucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\menucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\menucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\gamecontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\gamecontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\gamecontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\gamecontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\optionscontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\optionscontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\pausemenucontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\pausemenucontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\menucontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\menucontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\tetrus_gamegui\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9DD7EA-6C54-4841-A867-1A2B0D05FBF0}|Tetrus_GameGUI\\Tetrus_GameGUI.csproj|solutionrelative:tetrus_gamegui\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Tetrus_GameGUI\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:36:43.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameOverControl.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\GameOverControl.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\GameOverControl.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\GameOverControl.cs",
+              "RelativeToolTip": "Tetrus_GameGUI\\GameOverControl.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T13:14:37.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PauseMenuControl.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\PauseMenuControl.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\PauseMenuControl.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\PauseMenuControl.cs*",
+              "RelativeToolTip": "Tetrus_GameGUI\\PauseMenuControl.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:24:32.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PauseMenuControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\PauseMenuControl.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\PauseMenuControl.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\PauseMenuControl.cs [Design]*",
+              "RelativeToolTip": "Tetrus_GameGUI\\PauseMenuControl.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T13:49:07.689Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PauseMenuControl.resx",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\PauseMenuControl.resx",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\PauseMenuControl.resx",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\PauseMenuControl.resx*",
+              "RelativeToolTip": "Tetrus_GameGUI\\PauseMenuControl.resx*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-18T14:05:09.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tetromino.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\Tetromino.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\Tetromino.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\Tetromino.cs",
+              "RelativeToolTip": "Tetrus_GameGUI\\Tetromino.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:28:32.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\Form1.Designer.cs",
+              "RelativeToolTip": "Tetrus_GameGUI\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:19:25.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameOverControl.resx",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\GameOverControl.resx",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\GameOverControl.resx",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\GameOverControl.resx",
+              "RelativeToolTip": "Tetrus_GameGUI\\GameOverControl.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-18T13:16:50.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameControl.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\GameControl.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\GameControl.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\GameControl.cs",
+              "RelativeToolTip": "Tetrus_GameGUI\\GameControl.cs",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAqwC0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:20:15.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameOverControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\GameOverControl.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\GameOverControl.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\GameOverControl.cs [Design]",
+              "RelativeToolTip": "Tetrus_GameGUI\\GameOverControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T13:15:57.332Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OptionsControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\OptionsControl.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\OptionsControl.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\OptionsControl.cs [Design]",
+              "RelativeToolTip": "Tetrus_GameGUI\\OptionsControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T13:50:01.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OptionsControl.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\OptionsControl.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\OptionsControl.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\OptionsControl.cs",
+              "RelativeToolTip": "Tetrus_GameGUI\\OptionsControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:26:51.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\GameControl.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\GameControl.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\GameControl.cs [Design]",
+              "RelativeToolTip": "Tetrus_GameGUI\\GameControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:40:37.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameOverControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\GameOverControl.Designer.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\GameOverControl.Designer.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\GameOverControl.Designer.cs",
+              "RelativeToolTip": "Tetrus_GameGUI\\GameOverControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T13:15:21.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuControl.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\MenuControl.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\MenuControl.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\MenuControl.cs",
+              "RelativeToolTip": "Tetrus_GameGUI\\MenuControl.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:16:59.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MenuControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\MenuControl.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\MenuControl.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\MenuControl.cs [Design]",
+              "RelativeToolTip": "Tetrus_GameGUI\\MenuControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T13:47:52.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\Form1.cs [Design]",
+              "RelativeToolTip": "Tetrus_GameGUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:14:55.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\GameControl.Designer.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\GameControl.Designer.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\GameControl.Designer.cs",
+              "RelativeToolTip": "Tetrus_GameGUI\\GameControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:23:40.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\Form1.cs",
+              "RelativeToolTip": "Tetrus_GameGUI\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:18:35.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GameControl.resx",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\GameControl.resx",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\GameControl.resx",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\GameControl.resx",
+              "RelativeToolTip": "Tetrus_GameGUI\\GameControl.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-18T12:48:53.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PauseMenuControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\PauseMenuControl.Designer.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\PauseMenuControl.Designer.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\PauseMenuControl.Designer.cs",
+              "RelativeToolTip": "Tetrus_GameGUI\\PauseMenuControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:25:43.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OptionsControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\OptionsControl.Designer.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\OptionsControl.Designer.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\OptionsControl.Designer.cs",
+              "RelativeToolTip": "Tetrus_GameGUI\\OptionsControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:27:47.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MenuControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\MenuControl.Designer.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\MenuControl.Designer.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\MenuControl.Designer.cs",
+              "RelativeToolTip": "Tetrus_GameGUI\\MenuControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:21:46.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\Game.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\Game.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\Game.cs",
+              "RelativeToolTip": "Tetrus_GameGUI\\Game.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAqwBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:30:45.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\Board.cs",
+              "RelativeDocumentMoniker": "Tetrus_GameGUI\\Board.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Tetrus_GameGUI\\Tetrus_GameGUI\\Board.cs",
+              "RelativeToolTip": "Tetrus_GameGUI\\Board.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:29:48.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

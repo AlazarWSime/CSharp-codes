@@ -1,0 +1,7 @@
+C:\Users\LAZRUS\Source\Repos\method\method\bin\Debug\method.exe.config
+C:\Users\LAZRUS\Source\Repos\method\method\bin\Debug\method.exe
+C:\Users\LAZRUS\Source\Repos\method\method\bin\Debug\method.pdb
+C:\Users\LAZRUS\Source\Repos\method\method\obj\Debug\method.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\method\method\obj\Debug\method.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\method\method\obj\Debug\method.exe
+C:\Users\LAZRUS\Source\Repos\method\method\obj\Debug\method.pdb

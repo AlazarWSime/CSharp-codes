@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAZRUS\\Source\\Repos\\Exam study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8674708F-AE96-417C-9554-D4F7B22E3A0C}|Exam study\\Exam study.csproj|c:\\users\\lazrus\\source\\repos\\exam study\\exam study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8674708F-AE96-417C-9554-D4F7B22E3A0C}|Exam study\\Exam study.csproj|solutionrelative:exam study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8674708F-AE96-417C-9554-D4F7B22E3A0C}|Exam study\\Exam study.csproj|c:\\users\\lazrus\\source\\repos\\exam study\\exam study\\melelech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8674708F-AE96-417C-9554-D4F7B22E3A0C}|Exam study\\Exam study.csproj|solutionrelative:exam study\\melelech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 135,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Exam study\\Exam study\\Program.cs",
+              "RelativeDocumentMoniker": "Exam study\\Program.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Exam study\\Exam study\\Program.cs",
+              "RelativeToolTip": "Exam study\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T18:24:41.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 135,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "melelech.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Exam study\\Exam study\\melelech.cs",
+              "RelativeDocumentMoniker": "Exam study\\melelech.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Exam study\\Exam study\\melelech.cs",
+              "RelativeToolTip": "Exam study\\melelech.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T18:16:33.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

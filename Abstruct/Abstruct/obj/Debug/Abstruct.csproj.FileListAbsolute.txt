@@ -1,0 +1,7 @@
+C:\Users\LAZRUS\Source\Repos\Abstruct\Abstruct\bin\Debug\Abstruct.exe.config
+C:\Users\LAZRUS\Source\Repos\Abstruct\Abstruct\bin\Debug\Abstruct.exe
+C:\Users\LAZRUS\Source\Repos\Abstruct\Abstruct\bin\Debug\Abstruct.pdb
+C:\Users\LAZRUS\Source\Repos\Abstruct\Abstruct\obj\Debug\Abstruct.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\Abstruct\Abstruct\obj\Debug\Abstruct.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\Abstruct\Abstruct\obj\Debug\Abstruct.exe
+C:\Users\LAZRUS\Source\Repos\Abstruct\Abstruct\obj\Debug\Abstruct.pdb

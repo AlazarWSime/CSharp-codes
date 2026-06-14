@@ -1,0 +1,7 @@
+C:\Users\LAZRUS\Source\Repos\Haile\Haile\bin\Debug\Haile.exe.config
+C:\Users\LAZRUS\Source\Repos\Haile\Haile\bin\Debug\Haile.exe
+C:\Users\LAZRUS\Source\Repos\Haile\Haile\bin\Debug\Haile.pdb
+C:\Users\LAZRUS\Source\Repos\Haile\Haile\obj\Debug\Haile.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\Haile\Haile\obj\Debug\Haile.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\Haile\Haile\obj\Debug\Haile.exe
+C:\Users\LAZRUS\Source\Repos\Haile\Haile\obj\Debug\Haile.pdb

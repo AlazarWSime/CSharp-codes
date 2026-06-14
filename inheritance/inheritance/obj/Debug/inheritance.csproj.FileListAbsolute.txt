@@ -1,0 +1,7 @@
+C:\Users\LAZRUS\Source\Repos\inheritance\inheritance\bin\Debug\inheritance.exe.config
+C:\Users\LAZRUS\Source\Repos\inheritance\inheritance\bin\Debug\inheritance.exe
+C:\Users\LAZRUS\Source\Repos\inheritance\inheritance\bin\Debug\inheritance.pdb
+C:\Users\LAZRUS\Source\Repos\inheritance\inheritance\obj\Debug\inheritance.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\inheritance\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\inheritance\inheritance\obj\Debug\inheritance.exe
+C:\Users\LAZRUS\Source\Repos\inheritance\inheritance\obj\Debug\inheritance.pdb

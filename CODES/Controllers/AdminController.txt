@@ -1,0 +1,247 @@
+using System;
+using System.Data;
+using Microsoft.Data.SqlClient;
+using FormsApp.Models;
+using FormsApp.Data;
+
+namespace FormsApp.Controllers
+{
+    class AdminController
+    {
+        // 1. ADD EMPLOYEE METHOD
+        public string AddEmployee(string firstName, string lastName, char gender, int age, string position)
+        {
+            DBConnection.Initialte();
+
+            // Use teacher's empty constructor pattern
+            Account newAcc = new Account();
+            Employee newEmp = new Employee();
+
+            // Extract last 4 characters of the generated Guid string
+            string guidStr = newAcc.UserId.ToString();
+            string lastFourDigits = guidStr.Substring(guidStr.Length - 4);
+
+            // Generate Username formatting: FirstName_LastName@Last4Guid
+            string username = $"{firstName}_{lastName}@{lastFourDigits}";
+            
+            // Auto-generate a readable 8-character plain text password for the messagebox
+            string plainPassword = Guid.NewGuid().ToString().Substring(0, 8);
+            string hashedPassword = BCrypt.Net.BCrypt.EnhancedHashPassword(plainPassword);
+
+            string accountSql = "INSERT INTO Account (UserId, UserName, Password, Status) VALUES (@UserId, @UserName, @Password, 'A');";
+            string employeeSql = "INSERT INTO Employee (EmployeeId, FirstName, LastName, Gender, Age, Position, UserId) VALUES (@EmployeeId, @FirstName, @LastName, @Gender, @Age, @Position, @UserId);";
+
+            SqlTransaction tr = DBConnection._connection.BeginTransaction();
+
+            try
+            {
+                using (SqlCommand cmd = new SqlCommand(accountSql, DBConnection._connection, tr))
+                {
+                    cmd.Parameters.AddWithValue("@UserId", newAcc.UserId);
+                    cmd.Parameters.AddWithValue("@UserName", username);
+                    cmd.Parameters.AddWithValue("@Password", hashedPassword);
+                    cmd.ExecuteNonQuery();
+                }
+
+                using (SqlCommand cmd = new SqlCommand(employeeSql, DBConnection._connection, tr))
+                {
+                    cmd.Parameters.AddWithValue("@EmployeeId", newEmp.EmployeeId);
+                    cmd.Parameters.AddWithValue("@FirstName", firstName);
+                    cmd.Parameters.AddWithValue("@LastName", lastName);
+                    cmd.Parameters.AddWithValue("@Gender", gender.ToString());
+                    cmd.Parameters.AddWithValue("@Age", age);
+                    cmd.Parameters.AddWithValue("@Position", position);
+                    cmd.Parameters.AddWithValue("@UserId", newAcc.UserId);
+                    cmd.ExecuteNonQuery();
+                }
+
+                tr.Commit();
+                DBConnection._connection.Close();
+
+                // Return both credentials so the UI form can display them in a message box
+                return $"SUCCESS|{username}|{plainPassword}";
+            }
+            catch (Exception ex)
+            {
+                tr.Rollback();
+                DBConnection._connection.Close();
+                return $"ERROR|{ex.Message}";
+            }
+        }
+
+        // 2. VIEW ALL EMPLOYEES METHOD (Using SqlDataAdapter)
+        public DataTable GetAllEmployees()
+        {
+            DBConnection.Initialte();
+            DataTable dt = new DataTable();
+
+            // Note: Selecting 'a.Status' to filter out hard-deleted accounts if necessary, 
+            // but keeping records where Employee hasn't been soft-deleted (Status != 'X')
+            string query = @"
+                SELECT e.EmployeeId, e.FirstName, e.LastName, e.Gender, e.Age, e.Position, e.UserId
+                FROM Employee e
+                INNER JOIN Account a ON e.UserId = a.UserId
+                WHERE a.Status != 'X';"; // 'X' represents soft-deleted
+
+            try
+            {
+                using (SqlCommand cmd = new SqlCommand(query, DBConnection._connection))
+                {
+                    using (SqlDataAdapter adapter = new SqlDataAdapter(cmd))
+                    {
+                        adapter.Fill(dt);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                System.Windows.Forms.MessageBox.Show($"Error fetching employees: {ex.Message}");
+            }
+            finally
+            {
+                DBConnection._connection.Close();
+            }
+
+            return dt;
+        }
+
+        // 3. UPDATE EMPLOYEE METHOD (With dynamic custom username adjustments)
+        public bool UpdateEmployee(Guid employeeId, Guid userId, string firstName, string lastName, char gender, int age, string position)
+        {
+            DBConnection.Initialte();
+
+            // Re-calculate the username using the existing UserID's last 4 numbers
+            string guidStr = userId.ToString();
+            string lastFourDigits = guidStr.Substring(guidStr.Length - 4);
+            string updatedUsername = $"{firstName}_{lastName}@{lastFourDigits}";
+
+            string updateEmployeeSql = @"UPDATE Employee 
+                                         SET FirstName = @FirstName, LastName = @LastName, Gender = @Gender, Age = @Age, Position = @Position 
+                                         WHERE EmployeeId = @EmployeeId;";
+
+            string updateAccountSql = "UPDATE Account SET UserName = @UserName WHERE UserId = @UserId;";
+
+            SqlTransaction tr = DBConnection._connection.BeginTransaction();
+
+            try
+            {
+                using (SqlCommand cmd = new SqlCommand(updateEmployeeSql, DBConnection._connection, tr))
+                {
+                    cmd.Parameters.AddWithValue("@EmployeeId", employeeId);
+                    cmd.Parameters.AddWithValue("@FirstName", firstName);
+                    cmd.Parameters.AddWithValue("@LastName", lastName);
+                    cmd.Parameters.AddWithValue("@Gender", gender.ToString());
+                    cmd.Parameters.AddWithValue("@Age", age);
+                    cmd.Parameters.AddWithValue("@Position", position);
+                    cmd.ExecuteNonQuery();
+                }
+
+                using (SqlCommand cmd = new SqlCommand(updateAccountSql, DBConnection._connection, tr))
+                {
+                    cmd.Parameters.AddWithValue("@UserId", userId);
+                    cmd.Parameters.AddWithValue("@UserName", updatedUsername);
+                    cmd.ExecuteNonQuery();
+                }
+
+                tr.Commit();
+                DBConnection._connection.Close();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                tr.Rollback();
+                DBConnection._connection.Close();
+                System.Windows.Forms.MessageBox.Show($"Update execution failed: {ex.Message}");
+                return false;
+            }
+        }
+
+        // 4. SOFT DELETE EMPLOYEE METHOD
+        public bool SoftDeleteEmployee(Guid userId)
+        {
+            DBConnection.Initialte();
+            // Flagging account status as 'X' so it is completely preserved in database history but ignored by listings
+            string query = "UPDATE Account SET Status = 'X' WHERE UserId = @UserId;";
+
+            try
+            {
+                using (SqlCommand cmd = new SqlCommand(query, DBConnection._connection))
+                {
+                    cmd.Parameters.AddWithValue("@UserId", userId);
+                    cmd.ExecuteNonQuery();
+                    return true;
+                }
+            }
+            catch (Exception ex)
+            {
+                System.Windows.Forms.MessageBox.Show($"Soft delete action failed: {ex.Message}");
+                return false;
+            }
+            finally
+            {
+                DBConnection._connection.Close();
+            }
+        }
+
+        // 5. VIEW ACCOUNTS STATE (Using SqlDataAdapter)
+        public DataTable GetActiveAccounts()
+        {
+            DBConnection.Initialte();
+            DataTable dt = new DataTable();
+            
+            // Only fetch active ('A') or inactive ('I') accounts, hiding soft-deleted ones ('X')
+            string query = "SELECT UserId, UserName, Status FROM Account WHERE Status IN ('A', 'I');";
+
+            try
+            {
+                using (SqlCommand cmd = new SqlCommand(query, DBConnection._connection))
+                {
+                    using (SqlDataAdapter adapter = new SqlDataAdapter(cmd))
+                    {
+                        adapter.Fill(dt);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                System.Windows.Forms.MessageBox.Show($"Error pulling system credentials: {ex.Message}");
+            }
+            finally
+            {
+                DBConnection._connection.Close();
+            }
+
+            return dt;
+        }
+
+        // 6. TOGGLE STATUS METHOD
+        public bool ToggleAccountStatus(Guid userId, string currentStatus)
+        {
+            DBConnection.Initialte();
+            
+            // Invert the system state: if 'A' (Active) change to 'I' (Inactive). If 'I', restore to 'A'.
+            string newStatus = (currentStatus == "A") ? "I" : "A";
+            string query = "UPDATE Account SET Status = @Status WHERE UserId = @UserId;";
+
+            try
+            {
+                using (SqlCommand cmd = new SqlCommand(query, DBConnection._connection))
+                {
+                    cmd.Parameters.AddWithValue("@Status", newStatus);
+                    cmd.Parameters.AddWithValue("@UserId", userId);
+                    cmd.ExecuteNonQuery();
+                    return true;
+                }
+            }
+            catch (Exception ex)
+            {
+                System.Windows.Forms.MessageBox.Show($"Status inversion failure: {ex.Message}");
+                return false;
+            }
+            finally
+            {
+                DBConnection._connection.Close();
+            }
+        }
+    }
+}

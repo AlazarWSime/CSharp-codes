@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAZRUS\\Source\\Repos\\Lidet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CFBE0B-894C-406B-BCF3-A00F5D676D3D}|Lidet\\enumm.csproj|c:\\users\\lazrus\\source\\repos\\lidet\\lidet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CFBE0B-894C-406B-BCF3-A00F5D676D3D}|Lidet\\enumm.csproj|solutionrelative:lidet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CFBE0B-894C-406B-BCF3-A00F5D676D3D}|Lidet\\enumm.csproj|c:\\users\\lazrus\\source\\repos\\lidet\\lidet\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CFBE0B-894C-406B-BCF3-A00F5D676D3D}|Lidet\\enumm.csproj|solutionrelative:lidet\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 189,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Lidet\\Lidet\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Lidet\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Lidet\\Lidet\\BankAccount.cs",
+              "RelativeToolTip": "Lidet\\BankAccount.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:21:11.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAZRUS\\Source\\Repos\\Lidet\\Lidet\\Program.cs",
+              "RelativeDocumentMoniker": "Lidet\\Program.cs",
+              "ToolTip": "C:\\Users\\LAZRUS\\Source\\Repos\\Lidet\\Lidet\\Program.cs",
+              "RelativeToolTip": "Lidet\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwCwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T07:47:59.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

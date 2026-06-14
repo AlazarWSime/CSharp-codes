@@ -1,0 +1,7 @@
+C:\Users\LAZRUS\Source\Repos\Lidet\Lidet\bin\Debug\Lidet.exe.config
+C:\Users\LAZRUS\Source\Repos\Lidet\Lidet\bin\Debug\Lidet.exe
+C:\Users\LAZRUS\Source\Repos\Lidet\Lidet\bin\Debug\Lidet.pdb
+C:\Users\LAZRUS\Source\Repos\Lidet\Lidet\obj\Debug\enumm.csproj.AssemblyReference.cache
+C:\Users\LAZRUS\Source\Repos\Lidet\Lidet\obj\Debug\enumm.csproj.CoreCompileInputs.cache
+C:\Users\LAZRUS\Source\Repos\Lidet\Lidet\obj\Debug\Lidet.exe
+C:\Users\LAZRUS\Source\Repos\Lidet\Lidet\obj\Debug\Lidet.pdb
